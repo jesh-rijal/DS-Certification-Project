@@ -145,10 +145,12 @@ http://localhost:8501
 ```
 Type: TRANSFER
 Amount: 150000
-Old Balance Origin: 150000
-New Balance Origin: 0
-Old Balance Destination: 0
-New Balance Destination: 0
+Old Balance (Sender): 150000
+New Balance (Sender): 0
+Old Balance (Receiver): 0
+New Balance (Receiver): 0
+OrgbalanceDiff(Sender Old-New): 150000
+DestbalanceDiff(Receiver New-Old): 0
 ```
 
 ### ✅ Non-Fraud Case
@@ -160,6 +162,8 @@ Old Balance Origin: 20000
 New Balance Origin: 15000
 Old Balance Destination: 10000
 New Balance Destination: 15000
+OrgbalanceDiff(Sender Old-New): 100C
+DestbalanceDiff(Receiver New-Old): 150C
 ```
 
 ---
