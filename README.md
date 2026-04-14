@@ -160,7 +160,7 @@ Type: PAYMENT
 Amount: 5000
 Old Balance (Sender): 20000
 New Balance (Sender): 15000
-Old Balance (Receiver): 10000
+Old Balance(Receiver): 10000
 New Balance (Receiver): 15000
 OrgbalanceDiff(Sender Old-New): 100C
 DestbalanceDiff(Receiver New-Old): 150C
