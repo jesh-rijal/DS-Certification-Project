@@ -145,10 +145,10 @@ http://localhost:8501
 ```
 Type: TRANSFER
 Amount: 150000
-Old Balance (Sender): 150000
-New Balance (Sender): 0
-Old Balance (Receiver): 0
-New Balance (Receiver): 0
+Old Balance(Sender): 150000
+New Balance(Sender): 0
+Old Balance(Receiver): 0
+New Balance(Receiver): 0
 OrgbalanceDiff(Sender Old-New): 150000
 DestbalanceDiff(Receiver New-Old): 0
 ```
@@ -158,10 +158,10 @@ DestbalanceDiff(Receiver New-Old): 0
 ```
 Type: PAYMENT
 Amount: 5000
-Old Balance (Sender): 20000
-New Balance (Sender): 15000
+Old Balance(Sender): 20000
+New Balance(Sender): 15000
 Old Balance(Receiver): 10000
-New Balance (Receiver): 15000
+New Balance(Receiver): 15000
 OrgbalanceDiff(Sender Old-New): 100C
 DestbalanceDiff(Receiver New-Old): 150C
 ```
