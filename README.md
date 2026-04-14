@@ -158,10 +158,10 @@ DestbalanceDiff(Receiver New-Old): 0
 ```
 Type: PAYMENT
 Amount: 5000
-Old Balance Origin: 20000
-New Balance Origin: 15000
-Old Balance Destination: 10000
-New Balance Destination: 15000
+Old Balance (Sender): 20000
+New Balance (Sender): 15000
+Old Balance (Receiver): 10000
+New Balance (Receiver): 15000
 OrgbalanceDiff(Sender Old-New): 100C
 DestbalanceDiff(Receiver New-Old): 150C
 ```
