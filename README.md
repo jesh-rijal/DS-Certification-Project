@@ -1,4 +1,4 @@
-# 💳 Online Fraud Detection Web App
+# 💳 Online Transaction Fraud Detector
 
 ## 📌 Project Overview
 
@@ -187,11 +187,11 @@ DestbalanceDiff(Receiver New-Old): 150C
 ```
 fraud-detection/
 │
-├── app.py                 # Streamlit application
-├── model.pkl              # Trained Random Forest model
-├── notebook.ipynb         # EDA + Model training
-├── requirements.txt       # Dependencies
-└── README.md              # Project documentation
+├── app.py            # Streamlit application
+├── model.pkl         # Trained Random Forest model
+├── notebook.ipynb    # EDA + Model training
+├── requirements.txt  # Dependencies
+└── README.md         # Project documentation
 ```
 
 ---
@@ -226,6 +226,11 @@ This project demonstrates an effective fraud detection system using machine lear
 Name: Jesh Rijal
 GitHub: [My Github Profile](https://github.com/jesh-rijal)
 ```
+
+---
+
+## 🔓 License
+This project is open-source and is provided for educational, research, and learning purposes.
 
 ---
 
